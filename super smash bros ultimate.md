@@ -2,6 +2,8 @@
 
 ## Still Need to Unlock
 
+27 fighters remain.
+
 | ID  | Name                      | Appeared                 |
 | --- | ------------------------- | ------------------------ |
 | 16  | Sheik                     |                          |
